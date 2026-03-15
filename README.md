@@ -27,6 +27,4 @@ A simple personal profile website built with HTML, CSS, and JavaScript.
 2. Open `index.html` in a browser  
    **or** use the VS Code **Live Server** extension.
 
-**Live Demo**
-
-Live Demo Link - https://rhflores999.github.io/CMSC-207-Mini-Project/
+**Live Demo** -  https://rhflores999.github.io/CMSC-207-Mini-Project/
